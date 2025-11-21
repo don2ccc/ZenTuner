@@ -1,0 +1,7 @@
+{
+  "name": "ZenTuner AI",
+  "description": "A minimalist, professional guitar tuner powered by Web Audio API for real-time precision, featuring an AI Guitar Technician assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
